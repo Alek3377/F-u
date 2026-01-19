@@ -1,1 +1,10 @@
-# F-u
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>fuck you</title>
+    <meta name="description" content="fuck you">
+  </head>
+  <body style="margin:0;display:flex;justify-content:center;align-items:center;height:100vh;background:white;color:black;font-size:80px;font-family:Arial;">
+    fuck you
+  </body>
+</html>
